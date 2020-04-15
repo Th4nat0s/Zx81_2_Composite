@@ -1,0 +1,24 @@
+Partlist
+
+Exported from Zx81CompositeSMD.sch at 14/04/2020 21:15
+
+EAGLE Version 9.6.1 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device            Package   Library                      Sheet
+
+C1       22uF           C-EUC1206K        C1206K    rcl                          1
+C2       1nF            C-EUC0603K        C0603K    rcl                          1
+C3       10nF           C-EUC0603K        C0603K    rcl                          1
+D1       1N4148         1N4148WS          SOD-323   Diodes                       1
+D2       1N4148         1N4148WS          SOD-323   Diodes                       1
+IC1      555            555D              SO08      SparkFun-IC-Special-Function 1
+J1                      CONN_04           1X04      SparkFun-Connectors          1
+Q1       BC846          BC846             SOT23     transistor                   1
+R1       2.2k           R-EU_R0603        R0603     rcl                          1
+R2       91             R-EU_R0603        R0603     rcl                          1
+R3       47             R-EU_R0603        R0603     rcl                          1
+RV1      10K            TRIM_EU-SM-42/43A SM-42/43A pot                          1
+RV2      10K            TRIM_EU-SM-42/43A SM-42/43A pot                          1
+T1       2N2222         BC850             SOT23     transistor                   1
